@@ -4,9 +4,12 @@ dist/
 .DS_Store
 .env
 .env.*
+temp_auto_push.bat
 *.local
 .final-snapshot/
 _history.py
 test-results/
 visual-check.png
 contracts/target/
+.gitignore
+branch_structure.json
